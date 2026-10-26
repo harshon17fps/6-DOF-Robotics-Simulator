@@ -408,4 +408,4 @@ Code + math write-up: link in the first comment 👇
 
 ## License
 
-Add a `LICENSE` file (for example MIT) before publishing the repository.
+
