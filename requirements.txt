@@ -1,0 +1,5 @@
+# Core numerical engines (hand-written kinematics + planning are built on these)
+numpy>=1.26
+scipy>=1.11
+# Interactive 3D rendering (VTK backend)
+pyvista>=0.43
